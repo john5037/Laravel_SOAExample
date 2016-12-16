@@ -7,7 +7,6 @@ use App\Http\Controllers\Controller;
 
 // Need to Define Only Contracts
 use TechFrndz\SoaExample\Contracts\ExampleContract;
-
 class ExampleController extends Controller
 {
 	protected $exampleObj;

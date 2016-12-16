@@ -10,6 +10,7 @@ use TechFrndz\SoaExample\Repositories\ExampleRepository;
 
 class ExampleServiceProvider extends ServiceProvider
 {
+    
     /**
      * Bootstrap the application services.
      *

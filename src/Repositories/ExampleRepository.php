@@ -18,6 +18,5 @@ class ExampleRepository
         echo sprintf($this->message, $this->count);
         $this->count++;     
         return 'Call From DataBase';
-    }
-    
+    }    
 }
