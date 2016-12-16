@@ -1,0 +1,12 @@
+{
+    "name": "techfrndz/soa_example",
+    "description": "Example for Show Service Architecture of laravel",
+    "authors": [
+        {
+            "name": "kamal Nayak",
+            "email": "kmlnyk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
