@@ -1,0 +1,18 @@
+{
+    "name": "john5037/Laravel_SOAExample",
+    "description": "Example for Show Service Architecture of laravel 5.3",
+    "authors": [
+        {
+            "name": "kamal Nayak",
+            "email": "kmlnyk@gmail.com"
+        }
+    ],
+
+    "autoload": {
+      "psr-4": {
+         "TechFrndz\\SoaExample\\": "packages/techfrndz/soa_example/src"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
